@@ -178,7 +178,7 @@ body {
 }
 
 .feature-card {
-  max-width: 30rem;
+  width: 22rem;
   padding-top: 2rem;
   display: flex;
   flex-direction: column;
@@ -228,7 +228,7 @@ body {
 }
 
 .card-description {
-  padding: 0.8rem;
+  padding: 0.8rem 1.6rem;
   border-radius: 2rem;
   transition: all 0.33s;
 }
