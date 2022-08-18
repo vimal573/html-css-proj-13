@@ -160,7 +160,7 @@ body {
 .feature-cards-section {
   text-align: center;
 
-  padding-bottom: 5rem 0;
+  padding-bottom: 5rem;
 }
 
 .feature-cards-section h2 {
@@ -178,7 +178,7 @@ body {
 }
 
 .feature-card {
-  max-width: 20rem;
+  max-width: 30rem;
   padding-top: 2rem;
   display: flex;
   flex-direction: column;
